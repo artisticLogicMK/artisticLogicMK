@@ -5,7 +5,7 @@ I'm a creative and enthusiastic Backend and Frontend web developer based in Nige
 My main stack is [Laravel](https://laravel.com), [InertiaJs](https://inertiajs.com), [VueJs](https://vuejs.org), & [Tailwind CSS](https://tailwindcss.com)
 
 ## Technologies and Tools.
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img alt="JavaScript" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+<img width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" /> <img width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /> <img width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vuejs/vuejs.png" /> <img width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/inertiajs/inertiajs.png" />
 
 ### 💎 My principle.
 <i>The project am working on must be better than any I have ever done before.</i>

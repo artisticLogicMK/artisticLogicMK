@@ -2,10 +2,11 @@
 I'm Ma'Kama [MK for short], I go by the pseudonym ArtisticLogic.
 I'm a creative and enthusiastic Backend and Frontend web developer based in Nigeria. I love to constantly improve and learn new technologies.
 
+My main stack is [Laravel](https://laravel.com), [InertiaJs](https://inertiajs.com), [VueJs](https://vuejs.org), & [Tailwind CSS](https://tailwindcss.com)
+
 ### 💎 My principle.
 <i>The project am working on must be better than any I have ever done before.</i>
 
-My main stack is [Laravel](https://laravel.com), [InertiaJs](https://inertiajs.com), [VueJs](https://vuejs.org), & [Tailwind CSS](https://tailwindcss.com)
 
 ## 📫 How to reach me
 https://artisticlogicmk.one/, Email:mk.artisticlogic@gmail.com

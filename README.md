@@ -2,7 +2,7 @@
 I'm Ma'Kama [MK for short], I go by the pseudonym ArtisticLogic.
 I'm a creative and enthusiastic Backend and Frontend web developer based in Nigeria. I love to learn new technologies and improve on my skills.
 
-My main stack is [Laravel](https://laravel.com), [InertiaJs](https://inertiajs.com), [VueJs](https://vuejs.org), [Javascript]([https://vuejs.org](https://www.javascript.com/)) & [Tailwind CSS](https://tailwindcss.com)
+My main stack is [Laravel](https://laravel.com), [InertiaJs](https://inertiajs.com), [VueJs](https://vuejs.org), [Javascript](https://www.javascript.com/) & [Tailwind CSS](https://tailwindcss.com)
 
 ## Technologies and Tools.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -41,6 +41,6 @@ My main stack is [Laravel](https://laravel.com), [InertiaJs](https://inertiajs.c
 Email: mk.artisticlogic@gmail.com
 Telegram: https://t.me/ArtisticLogicMK
 
-## 🎴 Me across the web
+## 🎴 Me across the web dev universe...
 <a href="https://www.behance.net/artisticlogicmk">![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)</a>
 <a href="https://codepen.io/artisticlogicmk">![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>

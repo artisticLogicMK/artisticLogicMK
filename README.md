@@ -4,6 +4,26 @@ I'm a creative and enthusiastic Backend and Frontend web developer based in Nige
 
 My main stack is [Laravel](https://laravel.com), [InertiaJs](https://inertiajs.com), [VueJs](https://vuejs.org), [Javascript](https://www.javascript.com/) & [Tailwind CSS](https://tailwindcss.com)
 
+### Some Projects
+<div style="width:150px;display:inline-block;text-align:center;margin:3px 3px 0 0">
+    <a href="https://spacex-launchesx.netlify.app/">
+        <img src="https://drive.google.com/uc?export=view&id=1VD_rwmzlW5_dPLqBdKHTnYtrlWOyTmpQ"width="150"><br/>
+        SpaceX Launches
+    </a>
+</div>
+<div style="width:150px;display:inline-block;text-align:center;margin:3px 3px 0 0">
+    <a href="http://remotech.us-east-1.elasticbeanstalk.com">
+        <img src="https://drive.google.com/uc?export=view&id=1WxdrtvFDLuN4x81NwBJi-5q8eKk-OpS3" width="150"><br/>
+        Remotech
+    </a>
+</div>
+<div style="width:150px;display:inline-block;text-align:center;margin:3px 3px 0 0">
+    <a href="https://infinityconverter.netlify.app/">
+        <img src="https://drive.google.com/uc?export=view&id=1qwTfm6_jUMdUP4RsXrhfurCcrzRGeXlz" width="150"><br/>
+        Infinity Converter
+    </a>
+</div>
+
 ## Technologies and Tools.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)

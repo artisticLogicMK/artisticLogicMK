@@ -7,15 +7,15 @@ My main stack is [Laravel](https://laravel.com), [InertiaJs](https://inertiajs.c
 ### Some Projects
 
 <a href="https://spacex-launchesx.netlify.app/">
-    <img src="https://drive.google.com/uc?export=view&id=1VD_rwmzlW5_dPLqBdKHTnYtrlWOyTmpQ"width="170">
+    <img src="https://drive.google.com/uc?export=view&id=1VD_rwmzlW5_dPLqBdKHTnYtrlWOyTmpQ" width="200">&nbsp;
 </a>
 
 <a href="http://remotech.us-east-1.elasticbeanstalk.com">
-    <img src="https://drive.google.com/uc?export=view&id=1WxdrtvFDLuN4x81NwBJi-5q8eKk-OpS3" width="170">
+    <img src="https://drive.google.com/uc?export=view&id=1WxdrtvFDLuN4x81NwBJi-5q8eKk-OpS3" width="200">&nbsp;
 </a>
 
 <a href="https://infinityconverter.netlify.app/">
-    <img src="https://drive.google.com/uc?export=view&id=1qwTfm6_jUMdUP4RsXrhfurCcrzRGeXlz" width="170">
+    <img src="https://drive.google.com/uc?export=view&id=1qwTfm6_jUMdUP4RsXrhfurCcrzRGeXlz" width="200">&nbsp;
 </a>
 
 

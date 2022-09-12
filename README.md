@@ -5,24 +5,19 @@ I'm a creative and enthusiastic Backend and Frontend web developer based in Nige
 My main stack is [Laravel](https://laravel.com), [InertiaJs](https://inertiajs.com), [VueJs](https://vuejs.org), [Javascript](https://www.javascript.com/) & [Tailwind CSS](https://tailwindcss.com)
 
 ### Some Projects
-<div style="width:150px;display:inline-block;text-align:center;margin:3px 3px 0 0">
-    <a href="https://spacex-launchesx.netlify.app/">
-        <img src="https://drive.google.com/uc?export=view&id=1VD_rwmzlW5_dPLqBdKHTnYtrlWOyTmpQ"width="150"><br/>
-        SpaceX Launches
-    </a>
-</div>
-<div style="width:150px;display:inline-block;text-align:center;margin:3px 3px 0 0">
-    <a href="http://remotech.us-east-1.elasticbeanstalk.com">
-        <img src="https://drive.google.com/uc?export=view&id=1WxdrtvFDLuN4x81NwBJi-5q8eKk-OpS3" width="150"><br/>
-        Remotech
-    </a>
-</div>
-<div style="width:150px;display:inline-block;text-align:center;margin:3px 3px 0 0">
-    <a href="https://infinityconverter.netlify.app/">
-        <img src="https://drive.google.com/uc?export=view&id=1qwTfm6_jUMdUP4RsXrhfurCcrzRGeXlz" width="150"><br/>
-        Infinity Converter
-    </a>
-</div>
+
+<a href="https://spacex-launchesx.netlify.app/">
+    <img src="https://drive.google.com/uc?export=view&id=1VD_rwmzlW5_dPLqBdKHTnYtrlWOyTmpQ"width="170">
+</a>
+
+<a href="http://remotech.us-east-1.elasticbeanstalk.com">
+    <img src="https://drive.google.com/uc?export=view&id=1WxdrtvFDLuN4x81NwBJi-5q8eKk-OpS3" width="170">
+</a>
+
+<a href="https://infinityconverter.netlify.app/">
+    <img src="https://drive.google.com/uc?export=view&id=1qwTfm6_jUMdUP4RsXrhfurCcrzRGeXlz" width="170">
+</a>
+
 
 ## Technologies and Tools.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -40,6 +35,7 @@ My main stack is [Laravel](https://laravel.com), [InertiaJs](https://inertiajs.c
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+<img src="https://img.shields.io/badge/apache%20cordova-%23E8E8E8.svg?&style=for-the-badge&logo=apache%20cordova&logoColor=black" />
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)

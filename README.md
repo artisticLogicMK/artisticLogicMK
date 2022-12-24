@@ -1,6 +1,6 @@
 ## 👋 Hello World
 I'm Ma'Kama [MK], and I go by the alias ArtisticLogic.
-I'm a passionate and creative frontend & backend web developer from Nigeria. I enjoy learning new technologies and improving on my skills.
+I'm a passionate and creative frontend & backend web developer from Nigeria. I enjoy learning new technologies and improving on my skills. 
 
 My main stack is [Laravel](https://laravel.com), [InertiaJs](https://inertiajs.com), [VueJs](https://vuejs.org)/[NuxtJs](https://nuxt.com/), [JavaScript](https://www.javascript.com/)/[TypeScript](https://www.typescriptlang.org/), [Tailwind CSS](https://tailwindcss.com), [GSAP](https://greensock.com/)
 

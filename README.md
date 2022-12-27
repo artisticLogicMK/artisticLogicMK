@@ -4,7 +4,7 @@ I'm a passionate and creative frontend & backend web developer from Nigeria. I e
 
 My main stack is [Laravel](https://laravel.com), [InertiaJs](https://inertiajs.com), [VueJs](https://vuejs.org)/[NuxtJs](https://nuxt.com/), [JavaScript](https://www.javascript.com/)/[TypeScript](https://www.typescriptlang.org/), [Tailwind CSS](https://tailwindcss.com), [GSAP](https://greensock.com/)
 
-### Some Projects 
+### Some Projects
 
 <a href="https://testar-app.vercel.app/">
     <img src="https://firebasestorage.googleapis.com/v0/b/learn-c73c3.appspot.com/o/Misc%2FTestar-Dashboard.png?alt=media&token=f4652d23-0037-46fd-9024-04ad5918ed6e" width="200">&nbsp;

@@ -20,7 +20,7 @@ My main stack is [Laravel](https://laravel.com), [InertiaJs](https://inertiajs.c
 
 <a href="https://spacex-launchesx.netlify.app/">
     <img src="https://firebasestorage.googleapis.com/v0/b/learn-c73c3.appspot.com/o/Misc%2Fspx_social.png?alt=media&token=81b8c98f-f280-4a17-8a3a-e45d31d29898" width="200">&nbsp;
-</a>
+</a> 
 
 <a href="https://notate.netlify.app/">
     <img src="https://firebasestorage.googleapis.com/v0/b/learn-c73c3.appspot.com/o/Misc%2Fnotate_social.png?alt=media&token=342dcdf8-aba2-48a7-9d88-024f19965ba2" width="200">&nbsp;

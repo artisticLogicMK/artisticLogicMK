@@ -70,7 +70,7 @@ My main stack is [Laravel](https://laravel.com), [InertiaJs](https://inertiajs.c
 Email: mk.artisticlogic@gmail.com
 Telegram: https://t.me/ArtisticLogicMK
 
-## 🎴 Me across the web...
+## 🎴 Me across the web..
 <a href="https://www.behance.net/artisticlogicmk">![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)</a>
 <a href="https://codepen.io/artisticlogicmk">![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>
   

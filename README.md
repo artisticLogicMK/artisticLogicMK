@@ -14,7 +14,7 @@ My main stack is [Laravel](https://laravel.com), [InertiaJs](https://inertiajs.c
     <img src="https://firebasestorage.googleapis.com/v0/b/learn-c73c3.appspot.com/o/Misc%2Fconverter_social.png?alt=media&token=29744a31-afd8-4d00-9fee-99462cbb171a" width="200">&nbsp;
 </a>
 
-<a href="http://remotech.us-east-1.elasticbeanstalk.com">
+<a href="http://remotech-env.eba-sqytg2bp.us-east-1.elasticbeanstalk.com/">
     <img src="https://firebasestorage.googleapis.com/v0/b/learn-c73c3.appspot.com/o/Misc%2Frmt_social.png?alt=media&token=7a8387b2-e52e-4e45-a9d7-d4e984423e62" width="200">&nbsp;
 </a>
 

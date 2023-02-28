@@ -1,10 +1,9 @@
 ## 👋 Hello World
-I'm MK, and I go by the alias ArtisticLogic.
-I'm a passionate and creative fullstack web developer. I enjoy learning new technologies and improving on my skills.
+I'm MK, a passionate and creative fullstack web developer. I enjoy learning new technologies and improving on my skills.
 
 My main stack is [Laravel](https://laravel.com), [InertiaJs](https://inertiajs.com), [VueJs](https://vuejs.org)/[NuxtJs](https://nuxt.com/), [JavaScript](https://www.javascript.com/)/[TypeScript](https://www.typescriptlang.org/), [Tailwind CSS](https://tailwindcss.com), [GSAP](https://greensock.com/)
 
-### Some Projects
+### Some Work Done
 
 <a href="https://testar-app.vercel.app/">
     <img src="https://firebasestorage.googleapis.com/v0/b/learn-c73c3.appspot.com/o/Misc%2FTestar-Dashboard.png?alt=media&token=f4652d23-0037-46fd-9024-04ad5918ed6e" width="200">&nbsp;
@@ -64,13 +63,4 @@ My main stack is [Laravel](https://laravel.com), [InertiaJs](https://inertiajs.c
 
 ### 💎 My principle.
 <i>A project I'm working on must surpass the quality and standard of any I've previously done before.</i>
-
-
-## 📫 How to reach me
-Email: mk.artisticlogic@gmail.com
-Telegram: https://t.me/ArtisticLogicMK
-
-## 🎴 Me across the web...
-<a href="https://www.behance.net/artisticlogicmk">![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)</a>
-<a href="https://codepen.io/artisticlogicmk">![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>
   

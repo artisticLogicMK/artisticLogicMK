@@ -4,7 +4,7 @@ I'm MK, a passionate and creative fullstack web developer. I enjoy learning new 
 My main stack is [JavaScript](https://www.javascript.com/)/[TypeScript](https://www.typescriptlang.org/), [Vue.js](https://vuejs.org)/[Nuxt.js](https://nuxt.com/), [Laravel](https://laravel.com), [PHP](https://www.php.net/), [InertiaJs](https://inertiajs.com), [Tailwind CSS](https://tailwindcss.com), [GSAP](https://greensock.com/)
 
 
-<div style="display:none">
+<h1 style="display:none">
 ### Some Work Done
 
 <a href="https://testar-app.vercel.app/">
@@ -62,7 +62,7 @@ My main stack is [JavaScript](https://www.javascript.com/)/[TypeScript](https://
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
-    </div>
+    </h1>
 
 ### 💎 My principle.
 <i>A project I'm working on must surpass the quality and standard of any I've previously done before.</i>

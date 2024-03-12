@@ -1,11 +1,12 @@
 A Logically-based Artist | Problem-solver | Programmer | Developer. I bring ideas to reality. Looking for open-source services and developer tools to contribute to.
 
 I pride myself with the ability to get innovative with ANY technology in no time! Here are some tools I possess proficiency:
-[Vue.js](https://vuejs.org)/[Nuxt.js](https://nuxt.com/), [React.js](https://vuejs.org)/[Next.js](https://nuxt.com/), [JavaScript](https://www.javascript.com/)/[TypeScript](https://www.typescriptlang.org/),  [Laravel](https://laravel.com), [PHP](https://www.php.net/), [Tailwind CSS](https://tailwindcss.com), [GSAP](https://greensock.com/),
-[Ionic Capacitor](#),[Sass](https://sass-lang.com/), and more! Sky is da limit...
+
+[Vue.js](https://vuejs.org)/[Nuxt.js](https://nuxt.com/), [React.js](https://vuejs.org)/[Next.js](https://nuxt.com/), [JavaScript](https://www.javascript.com/)/[TypeScript](https://www.typescriptlang.org/),  [Laravel](https://laravel.com), [PHP](https://www.php.net/), [Tailwind CSS](https://tailwindcss.com), [GSAP](https://greensock.com/), [Ionic Capacitor](#), [Sass](https://sass-lang.com/), and more! Sky is da limit...
 
     
 <strong>Some Work Done</strong>
+
 Check my pinned items below.
 
 

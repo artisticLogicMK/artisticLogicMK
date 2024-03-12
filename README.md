@@ -5,8 +5,8 @@ I pride myself with the ability to get innovative with ANY technology in no time
 [Ionic Capacitor](#),[Sass](https://sass-lang.com/), and more! Sky is da limit...
 
     
-### Some Work Done
-[Scroll to my Pinned Items](#.js-pinned-items-reorder-container)
+<strong>Some Work Done</strong>
+Check my pinned items below.
 
 
 ### 💎 My principle

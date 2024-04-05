@@ -9,7 +9,7 @@ I pride myself with the ability to get innovative with ANY technology in no time
 
 <strong>💎 My principle</strong><br>A project I'm working on must surpass the quality and standard of the ones before.
 
-<strong>Me across the web</strong><br>
+<strong>Links</strong><br>
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/artisticMK)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/creativemk)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@MKTheDev)

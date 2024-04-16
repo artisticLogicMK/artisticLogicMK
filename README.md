@@ -18,4 +18,5 @@ I am a dynamic developer with the ability/experience to get innovative with ANY 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://artisticmk.hashnode.dev/)
 
 <strong>Contact</strong><br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mk.artisticlogic@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CMK_Telegram)

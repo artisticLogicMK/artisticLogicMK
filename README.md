@@ -1,7 +1,9 @@
 A Logically-based Artist | Problem-solver | Programmer | Developer | I bring ideas to reality. Looking for open-source services and developer tools to contribute to.
 
-I am a dynamic developer with the ability/experience to get innovative with ANY technology in no time! Here are some tools I possess proficiency:<br>
+Here are some tools I possess proficiency:<br>
 [Vue.js](https://vuejs.org)/[Nuxt.js](https://nuxt.com/), [React.js](https://react.dev)/[Next.js](https://nextjs.org), [JavaScript](https://www.javascript.com/)/[TypeScript](https://www.typescriptlang.org/),  [Laravel](https://laravel.com), [PHP](https://www.php.net/), [Tailwind CSS](https://tailwindcss.com), [GSAP](https://greensock.com/), [Ionic Capacitor](https://ionicframework.com/), [Sass](https://sass-lang.com/), and more!
+
+I am a dynamic developer with the ability/experience to get innovative with ANY technology in no time!
 
     
 <strong>Some Work Done</strong><br>Check my pinned items below.
@@ -14,5 +16,6 @@ I am a dynamic developer with the ability/experience to get innovative with ANY 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/creativemk)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@MKTheDev)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://artisticmk.hashnode.dev/)
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CMK_Telegram)
-[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/mk_pages)
+
+<strong>Contact</strong><br>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CMK_Telegram)

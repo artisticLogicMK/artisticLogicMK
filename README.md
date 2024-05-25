@@ -6,7 +6,7 @@ Here are some tools I possess proficiency:<br>
 I am a dynamic developer with the ability/experience to get innovative with ANY technology in no time!
 
     
-<strong>Some Work Done</strong><br>Check my pinned items below.
+<strong>Some Work Done</strong><br>Check my pinned items below or repositories page.
 
 
 <strong>💎 My principle</strong><br>A project I'm working on must surpass the quality and standard of the ones before.

@@ -1,7 +1,7 @@
-## A Logically-based Artist | Problem-solver | Developer
+### A Logically-based Artist | Problem-solver | Developer
 I bring ideas to reality. Looking to contribute to open-source services and developer tools.
 
-<strong>About Me</strong>
+<strong>About Me</strong><br>
 I am a dynamic developer with the ability and experience to innovate with ANY technology in no time!
 
 Here are some tools I possess proficiency:<br>

@@ -1,12 +1,14 @@
-A Logically-based Artist | Problem-solver | Programmer | Developer | I bring ideas to reality. Looking for open-source services and developer tools to contribute to.
+## A Logically-based Artist | Problem-solver | Developer
+I bring ideas to reality. Looking to contribute to open-source services and developer tools.
+
+<strong>About Me</strong>
+I am a dynamic developer with the ability and experience to innovate with ANY technology in no time!
 
 Here are some tools I possess proficiency:<br>
 [Vue.js](https://vuejs.org)/[Nuxt.js](https://nuxt.com/), [React.js](https://react.dev)/[Next.js](https://nextjs.org), [JavaScript](https://www.javascript.com/)/[TypeScript](https://www.typescriptlang.org/),  [Laravel](https://laravel.com), [PHP](https://www.php.net/), [Tailwind CSS](https://tailwindcss.com), [GSAP](https://greensock.com/), [Ionic Capacitor](https://ionicframework.com/), [Sass](https://sass-lang.com/), and more!
 
-I am a dynamic developer with the ability/experience to get innovative with ANY technology in no time!
-
     
-<strong>Some Work Done</strong><br>Check my pinned items below or repositories page.
+<strong>Some Work Done</strong><br>Check my pinned items below or visit the repositories page.
 
 
 <strong>💎 My principle</strong><br>A project I'm working on must surpass the quality and standard of the ones before.

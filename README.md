@@ -1,5 +1,5 @@
 ### A Logically-based Artist | Problem-solver | Developer
-I bring ideas to reality. I'm seeking to join a dynamic team where I can leverage my skills to bring innovative ideas to life, as well as contribute to open-source services and developer tools
+I bring ideas to reality. Looking to contribute to open-source services and developer tools
 
 <strong>About Me</strong><br>
 I am a dynamic developer with the ability and experience to innovate with ANY technology in no time!

@@ -1,7 +1,4 @@
 ### A Logically-based Artist | Creative and Innovative Developer
-Seeking to join a dynamic team where I can leverage my skills to bring innovative ideas to life, as well as contribute to open-source services and developer tools.
-
-<strong>About Me</strong><br>
 I'm a dynamic developer with the ability and experience to innovate quickly with ANY technology!
 
 Here are some tools I possess proficiency:<br>
@@ -14,7 +11,6 @@ Here are some tools I possess proficiency:<br>
 <strong>💎 My principle</strong><br>A project I'm working on must surpass the quality and standard of the ones before.
 
 <strong>Links</strong><br>
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@MKTheDev)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/artisticMK)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/creativemk)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://artisticmk.hashnode.dev/)

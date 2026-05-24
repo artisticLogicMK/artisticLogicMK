@@ -6,12 +6,3 @@ Here are some tools I possess proficiency:<br>
 <strong>Some Work Done</strong><br>Check my pinned items below or visit the repositories page.
 
 <strong>💎 My principle</strong><br>A project I'm working on must surpass the quality and standard of the ones before.
-
-<strong>Links</strong><br>
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/artisticMK)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/creativemk)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://artisticmk.hashnode.dev/)
-
-<strong>Contact</strong><br>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mk.artisticlogic@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CMK_Telegram)
